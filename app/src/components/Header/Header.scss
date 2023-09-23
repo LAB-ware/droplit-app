@@ -1,0 +1,47 @@
+.header-container {
+  height: 90px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+  background-color: beige;
+  padding: 20px;
+
+  .header-links {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    .first {
+      margin-right: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+  }
+
+  a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #262626;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  button {
+    background-color: aquamarine;
+    padding: 10px 20px;
+    outline: 0;
+    border: 0;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #262626;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+}
