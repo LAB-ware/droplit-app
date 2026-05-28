@@ -13,11 +13,6 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 _List the full names, email address & Github username of your teammates_
 
-1. Sharynne Azhar || sharynneazhar@gmail.com || sharynneazhar
-1. Michelle Cheung || mlcheung93@gmail.com || mlcheung93
-1. Marcus Leong || mwleong25@gmail.com || mleong25
-1. Nina Boonyasiti || nina.boonyasiti@gmail.com || nina-boonyasiti
-
 
 ## What is the name of your App?
 
